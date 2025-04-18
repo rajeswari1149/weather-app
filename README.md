@@ -1,5 +1,4 @@
-# weather-app
-# 🌦️ Weather Forecast Web App
+# 🌦️Weather App
 
 This is a simple weather forecast web application that allows users to search for a city and view current weather conditions along with a 5-day forecast. It uses the **OpenWeatherMap API** to fetch real-time weather data.
 
